@@ -1,2 +1,3 @@
 Ini merupakan belajar GiHub
 - Setelah ini akan belajar Git
+- menambahkan point 1
