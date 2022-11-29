@@ -1,3 +1,4 @@
 Ini merupakan belajar GiHub
 - Setelah ini akan belajar Git
-- menambahkan point 1
+- menambahkan point 2
+- menambahkan point 3
