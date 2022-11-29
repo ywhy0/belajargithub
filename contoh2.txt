@@ -1,6 +1,6 @@
 Kalimat
-- poin-poin 1
 - poin-poin 2
 - poin-poin 3
 - poin-poin 4
 - poin-poin 5
+- poin-poin 6
